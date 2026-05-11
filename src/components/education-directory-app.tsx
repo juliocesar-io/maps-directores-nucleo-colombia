@@ -109,7 +109,7 @@ export function EducationDirectoryApp() {
             </a>
           </div>
           <h1 className="shrink-0 font-heading text-sm font-semibold tracking-tight md:text-base">
-              Directorio Coordinadores de Núcleo, Colombia
+              Directores de Núcleo Colombia Educativo
           </h1>
           <p className="inline-flex shrink-0 items-center gap-1.5 text-xs text-muted-foreground">
             Educación Pública

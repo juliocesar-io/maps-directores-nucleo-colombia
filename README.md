@@ -1,12 +1,14 @@
 # maps-coordinadores-nucleo-colombia
 
-Mapa interactivo de Colombia para consultar coordinadores por departamento, con:
+![Interactive map of Colombia with search and SIDESED footer — dark theme](docs/screenshot.png)
 
-- Busqueda por nombre y departamento
-- Resaltado dinamico en mapa
-- Popover contextual sobre el departamento seleccionado
-- Modo claro/oscuro/sistema
-- Enlaces a comunidad SIDESED
+Interactive map of Colombia to look up education coordinators by department, with:
+
+- Search by name and department
+- Dynamic highlighting on the map
+- Contextual popover on the selected department
+- Light / dark / system theme
+- Links to the SIDESED community
 
 ## Stack
 
@@ -16,14 +18,14 @@ Mapa interactivo de Colombia para consultar coordinadores por departamento, con:
 - Leaflet + react-leaflet
 - pnpm
 
-## Desarrollo local
+## Local development
 
 ```bash
 pnpm install
 pnpm dev
 ```
 
-Abrir en [http://localhost:3000](http://localhost:3000).
+Open [http://localhost:3000](http://localhost:3000).
 
 ## Scripts
 
@@ -34,19 +36,6 @@ pnpm build
 pnpm start
 ```
 
-## Publicar en Vercel
+## Geographic data
 
-Este proyecto esta listo para Vercel (no requiere variables de entorno para correr).
-
-1. Subir el repo a GitHub.
-2. Ir a [Vercel](https://vercel.com/new) y conectar el repositorio.
-3. Framework detectado: **Next.js**.
-4. Build Command: `pnpm build`
-5. Install Command: `pnpm install`
-6. Output: detectado automaticamente por Next.js.
-
-Cada push a `main` genera un despliegue automatico.
-
-## Datos geograficos
-
-Geometria base de departamentos: [caticoa3/colombia_mapa](https://github.com/caticoa3/colombia_mapa).
+Department geometry source: [caticoa3/colombia_mapa](https://github.com/caticoa3/colombia_mapa).

@@ -14,9 +14,62 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mapa territorial — Coordinación educativa (Colombia)",
+  title: "Directores de Núcleo Colombia Educativo — SIDESED",
   description:
-    "Mapa interactivo por departamento con directorio de coordinadores territoriales en educación (datos de demostración).",
+    "Datos abiertos para la administración educativa: mapa interactivo de Colombia con directorio de directores de núcleo por departamento. Busca por nombre o departamento.",
+  applicationName: "SIDESED — Directores de Núcleo",
+  icons: {
+    icon: [
+      {
+        url: "/favicons/favicon-16x16.png",
+        sizes: "16x16",
+        type: "image/png",
+      },
+      {
+        url: "/favicons/favicon-32x32.png",
+        sizes: "32x32",
+        type: "image/png",
+      },
+      {
+        url: "/favicons/favicon-96x96.png",
+        sizes: "96x96",
+        type: "image/png",
+      },
+      {
+        url: "/favicons/favicon-160x160.png",
+        sizes: "160x160",
+        type: "image/png",
+      },
+    ],
+    shortcut: "/favicons/favicon.ico",
+    apple: [
+      {
+        url: "/favicons/apple-touch-icon.png",
+        sizes: "180x180",
+        type: "image/png",
+      },
+      {
+        url: "/favicons/apple-touch-icon-76x76.png",
+        sizes: "76x76",
+        type: "image/png",
+      },
+      {
+        url: "/favicons/apple-touch-icon-120x120.png",
+        sizes: "120x120",
+        type: "image/png",
+      },
+      {
+        url: "/favicons/apple-touch-icon-152x152.png",
+        sizes: "152x152",
+        type: "image/png",
+      },
+    ],
+  },
+  other: {
+    "msapplication-TileColor": "#da532c",
+    "msapplication-TileImage": "/favicons/mstile-144x144.png",
+    "msapplication-config": "/favicons/browserconfig.xml",
+  },
 };
 
 export default function RootLayout({

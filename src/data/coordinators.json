@@ -1,0 +1,365 @@
+[
+  {
+    "departmentId": "05",
+    "departmentName": "Antioquia",
+    "coordinator": {
+      "name": "María García",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.05@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-01-01",
+      "photoUrl": "https://i.pravatar.cc/150?img=1"
+    }
+  },
+  {
+    "departmentId": "08",
+    "departmentName": "Atlántico",
+    "coordinator": {
+      "name": "Luis González",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.08@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-02-02",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "11",
+    "departmentName": "Bogotá, D.C.",
+    "coordinator": {
+      "name": "Patricia Flores",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.11@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-03-03",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "13",
+    "departmentName": "Bolívar",
+    "coordinator": {
+      "name": "Diego Moreno",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.13@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-04-04",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "15",
+    "departmentName": "Boyacá",
+    "coordinator": {
+      "name": "Laura Martínez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.15@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-05-05",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "17",
+    "departmentName": "Caldas",
+    "coordinator": {
+      "name": "Sergio Sánchez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.17@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-06-06",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "18",
+    "departmentName": "Caquetá",
+    "coordinator": {
+      "name": "María Gómez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.18@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-07-07",
+      "photoUrl": "https://i.pravatar.cc/150?img=7"
+    }
+  },
+  {
+    "departmentId": "19",
+    "departmentName": "Cauca",
+    "coordinator": {
+      "name": "Luis Ortiz",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.19@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-08-08",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "20",
+    "departmentName": "Cesar",
+    "coordinator": {
+      "name": "Patricia Hernández",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.20@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-09-09",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "23",
+    "departmentName": "Córdoba",
+    "coordinator": {
+      "name": "Diego Torres",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.23@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-10-10",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "25",
+    "departmentName": "Cundinamarca",
+    "coordinator": {
+      "name": "Laura Reyes",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.25@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-11-11",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "27",
+    "departmentName": "Chocó",
+    "coordinator": {
+      "name": "Sergio Rodríguez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.27@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-12-12",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "41",
+    "departmentName": "Huila",
+    "coordinator": {
+      "name": "María Pérez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.41@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-01-13",
+      "photoUrl": "https://i.pravatar.cc/150?img=13"
+    }
+  },
+  {
+    "departmentId": "44",
+    "departmentName": "La Guajira",
+    "coordinator": {
+      "name": "Luis Rivera",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.44@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-02-14",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "47",
+    "departmentName": "Magdalena",
+    "coordinator": {
+      "name": "Patricia Castro",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.47@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-03-15",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "50",
+    "departmentName": "Meta",
+    "coordinator": {
+      "name": "Diego López",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.50@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-04-16",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "52",
+    "departmentName": "Nariño",
+    "coordinator": {
+      "name": "Laura Ramírez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.52@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-05-17",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "54",
+    "departmentName": "Norte de Santander",
+    "coordinator": {
+      "name": "Sergio Díaz",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.54@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-06-18",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "63",
+    "departmentName": "Quindío",
+    "coordinator": {
+      "name": "María García",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.63@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-07-19",
+      "photoUrl": "https://i.pravatar.cc/150?img=19"
+    }
+  },
+  {
+    "departmentId": "66",
+    "departmentName": "Risaralda",
+    "coordinator": {
+      "name": "Luis González",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.66@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-08-20",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "68",
+    "departmentName": "Santander",
+    "coordinator": {
+      "name": "Patricia Flores",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.68@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-09-21",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "70",
+    "departmentName": "Sucre",
+    "coordinator": {
+      "name": "Diego Moreno",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.70@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-10-22",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "73",
+    "departmentName": "Tolima",
+    "coordinator": {
+      "name": "Laura Martínez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.73@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-11-23",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "76",
+    "departmentName": "Valle del Cauca",
+    "coordinator": {
+      "name": "Sergio Sánchez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.76@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-12-24",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "81",
+    "departmentName": "Arauca",
+    "coordinator": {
+      "name": "María Gómez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.81@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-01-25",
+      "photoUrl": "https://i.pravatar.cc/150?img=25"
+    }
+  },
+  {
+    "departmentId": "85",
+    "departmentName": "Casanare",
+    "coordinator": {
+      "name": "Luis Ortiz",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.85@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-02-26",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "86",
+    "departmentName": "Putumayo",
+    "coordinator": {
+      "name": "Patricia Hernández",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.86@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-03-27",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "88",
+    "departmentName": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+    "coordinator": {
+      "name": "Diego Torres",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.88@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-04-01",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "91",
+    "departmentName": "Amazonas",
+    "coordinator": {
+      "name": "Laura Reyes",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.91@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-05-02",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "94",
+    "departmentName": "Guainía",
+    "coordinator": {
+      "name": "Sergio Rodríguez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.94@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-06-03",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "95",
+    "departmentName": "Guaviare",
+    "coordinator": {
+      "name": "María Pérez",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.95@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-07-04",
+      "photoUrl": "https://i.pravatar.cc/150?img=31"
+    }
+  },
+  {
+    "departmentId": "97",
+    "departmentName": "Vaupés",
+    "coordinator": {
+      "name": "Luis Rivera",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.97@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-08-05",
+      "photoUrl": null
+    }
+  },
+  {
+    "departmentId": "99",
+    "departmentName": "Vichada",
+    "coordinator": {
+      "name": "Patricia Castro",
+      "title": "Coordinador(a) líder — Administración educativa territorial",
+      "email": "coordinador.dpto.99@educacion-ejemplo.gov.co",
+      "lastUpdate": "2026-09-06",
+      "photoUrl": null
+    }
+  }
+]

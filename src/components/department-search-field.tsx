@@ -1,7 +1,7 @@
 "use client";
 
 import { Popover as BasePopover } from "@base-ui/react/popover";
-import { MapPin, RotateCcw, Search } from "lucide-react";
+import { RotateCcw, Search } from "lucide-react";
 import {
   useDeferredValue,
   useLayoutEffect,
@@ -13,7 +13,6 @@ import type { DepartmentCoordinator } from "@/lib/coordinators";
 import { filterDepartmentCoordinators } from "@/lib/coordinators";
 import { getDepartmentFlagUrl } from "@/lib/department-flags";
 import { cn } from "@/lib/utils";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import SuggestiveSearch from "@/components/ui/suggestive-search";
 
 type Props = {
@@ -190,30 +189,6 @@ export function DepartmentSearchField({
             </BasePopover.Popup>
           </BasePopover.Positioner>
         </BasePopover.Portal>
-
-        {!showList ? (
-          <Card className="mt-2 border-border/50 bg-background/35 shadow-sm backdrop-blur-md">
-            <CardHeader className="pb-2">
-              <CardTitle className="text-sm">
-                Mapa interactivo de departamentos
-              </CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-2.5 pt-0">
-              <p className="text-xs text-muted-foreground">
-                Usa la búsqueda o haz clic en el mapa para abrir la ficha del
-                coordinador.
-              </p>
-              <div className="flex items-center gap-2 text-xs text-muted-foreground">
-                <Search className="size-3.5" />
-                Búsqueda por nombre, departamento.
-              </div>
-              <div className="flex items-center gap-2 text-xs text-muted-foreground">
-                <MapPin className="size-3.5" />
-                El departamento seleccionado se resalta en rojo.
-              </div>
-            </CardContent>
-          </Card>
-        ) : null}
       </BasePopover.Root>
     </div>
   );
